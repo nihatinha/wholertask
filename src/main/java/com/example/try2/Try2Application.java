@@ -9,7 +9,7 @@ public class Try2Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Try2Application.class, args);
 	}
-	public String sayHi(){
-		return "Hi";
+	public String sayHello() {
+		return "Hello"; // Mesajı qaytarır
 	}
 }
