@@ -10,6 +10,6 @@ public class Try2Application {
 		SpringApplication.run(Try2Application.class, args);
 	}
 	public String sayHello() {
-		return "Hello, World!"; // Mesajı qaytarır
+		return "Hello"; // Mesajı qaytarır
 	}
 }
